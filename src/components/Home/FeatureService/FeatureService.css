@@ -1,0 +1,12 @@
+.featureImage{
+    padding: 0 5px;
+}
+.featureImage img{
+    height: 450px;
+    width: 450px;
+    
+}
+.feature-container{
+    display: flex;
+    margin-top: 50px;
+}

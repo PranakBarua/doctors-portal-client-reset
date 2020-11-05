@@ -1,0 +1,9 @@
+.blog-container :hover{
+    background-color: #1CC7C1;
+}
+.blog-container img{
+    height:60px
+}
+.blog-container{
+    padding: 20px;
+}
